@@ -21,7 +21,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Tathagat-2412/Excel-Sales-Analytics/blob/main/Profit%20%26%20loss%20by%20fiscal%20year.pdf)_ & _[Months](https://github.com/Tathagat-2412/Excel-Sales-Analytics/blob/main/Profit%20%26%20loss%20by%20fiscal%20month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Tathagat-2412/Excel-Sales-Analytics/blob/main/P%26l%20For%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -39,7 +39,7 @@
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales .
+- [x]	Refined understanding of Sales & finance.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
